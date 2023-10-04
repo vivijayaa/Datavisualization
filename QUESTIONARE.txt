@@ -1,0 +1,17 @@
+QUESTIONARE
+1. How would you rate the quality of the teaching and learning experience in this course?
+2. How well were the course materials organized and presented?
+3. How well did the course align with your career goals and interests?
+4. How satisfied were you with the level of interaction and engagement with your classmates and instructors?
+5. How effective were the assignments and assessments in helping you learn and apply the course material?
+6. To what extent were you able to develop your critical thinking and problem-solving skills in this course?
+7. Were the instructors able to effectively incorporate technology and multimedia into their teaching?
+8. How well did the instructors provide feedback on your assignments and performance in the course?
+9. Did the course provide opportunities for practical and hands-on learning experiences?
+10. How well did the instructors adjust their teaching approach to accommodate different learning styles and abilities?
+11. How well did the course prepare you for the final exam or assessment?
+12. How much did you enjoy learning the course material?
+13. To what extent did the course challenge you intellectually?
+14. How well did the instructors provide guidance and support for self-directed learning?
+15. How well did the instructors foster an inclusive and respectful learning environment?
+
